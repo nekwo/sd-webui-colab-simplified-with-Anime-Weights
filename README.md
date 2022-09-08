@@ -1,4 +1,4 @@
-# Refined version of the amazing stable diffusion web ui repo with optional bool for Custom Anime weights. Finetuned on danbooru by the folks over at Touhou projectAI
+# Refined and cultured version of the stable diffusion web ui repo with optional bool for Custom Anime weights. Finetuned on danbooru by the folks over at Touhou projectAI
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ptrKami/sd-webui-colab-simplified-with-optional-Anime-Weights/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb)
 
 ## Super simple to get started
